@@ -30,3 +30,8 @@ html,body{
     margin-top: 20px;
 }
 /* =============== End Navbar =================== */
+@media(max-width: 600px){
+    .menu1{
+        display: none !important;
+    }
+}
