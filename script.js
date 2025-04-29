@@ -256,7 +256,7 @@ function bodyload() {
 }
 
 function popularCourse() {
-  fetch("../eduport-templete/edu.json")
+  fetch("edu.json")
     .then((response) => {
       return response.json();
     })

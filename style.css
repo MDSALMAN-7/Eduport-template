@@ -28,6 +28,14 @@ ul li a{
 #Eduport-logo {
     padding-right: 130px;
 }
+.button{
+    padding: 10px;
+    color: rgb(79, 79, 247);
+    background-color: rgb(232, 249, 255);
+    outline: none;
+    border: 0;
+    border-radius: 15px;
+}
 
 .navbar-head {
     display: flex;
@@ -182,3 +190,26 @@ footer a{
     text-decoration:none;
     color:rgb(107, 106, 106);
 }
+
+
+.search-bar-main {
+    width: 250px;
+    padding: 10px 15px; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: border-color 0.3s ease;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+  .search-bar-main:focus-within {
+    border-color: #007bff; /* Bootstrap blue */
+    /* box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); */
+  }
+  .search-bar{
+    outline:none;
+    border: none;
+    
+  }
