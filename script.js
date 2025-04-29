@@ -330,7 +330,7 @@ function popularCourse() {
 }
 
 
-const TradingCourseImage =["../eduport-templete/edgu/course/14.jpg","../eduport-templete/edgu/course/15.jpg","../eduport-templete/edgu/course/16.jpg","../eduport-templete/edgu/course/17.jpg"];
+const TradingCourseImage =["public/images/edgu/course/14.jpg","public/images/edgu/course/15.jpg","public/images/edgu/course/16.jpg","public/images/edgu/course/17.jpg"];
 
 const CourseName=["Angular-The complete Guide (2021 Edition)","Time Management Mastery : Do More ,Stress Less","Time Management Mastery : Do More ,Stress Less","Time Management Mastery : Do More ,Stress Less"];
 
