@@ -339,7 +339,7 @@ const Rate=["4.5","4.0","4.5","4.0"];
 const Student =["6500","2000","3000","4500"]; 
 const Time = ["12h 56m","24h 30m","6h 44m","9h 42m"];
 const lecture =["55 lectures","63 lecture","97 lecture","94 lecture"]
-const TeacherProfile=["../eduport/edgu/avtar/01.jpg","../eduport/edgu/avtar/02.jpg","../eduport/edgu/avtar/03.jpg","../eduport/edgu/avtar/04.jpg"];
+const TeacherProfile=["public/images/edgu/avtar/01.jpg","public/images/edgu/avtar/02.jpg","public/images/edgu/avtar/03.jpg","public/images/edgu/avtar/04.jpg"];
 const TeacherName=["Frances Gouses","Larry Laswosn","Billy Vasquez","carenes polly"];
 const price =["Free","$200","$500","$300"];
 

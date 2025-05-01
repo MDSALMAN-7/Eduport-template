@@ -56,6 +56,31 @@ ul li a{
     border-radius: 10px;
 }
 
+/* giving color to icon*/
+.bi-life-preserver{
+    color: yellow;
+}
+.bi-card-text{
+    color: crimson;
+}
+.bi-toggle-off{
+    color: rgb(23, 23, 253);
+}
+.bi-cloud-download-fill{
+    color: green;
+}
+.bi-puzzle-fill{
+    color: orangered;
+}
+.bi-stickies-fill{
+    color: purple;
+}
+
+
+/* Giveing hover to dropdown-item*/
+
+
+
 .profile-border {
     border-bottom: 1px solid rgb(158, 156, 156);
 }
